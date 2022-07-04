@@ -17,5 +17,5 @@ Actualmente me encuentro terminando mis estudios para la obtención del título 
 ![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-1D9C5A?style=for-the-badge&logo=android&logoColor=white&labelColor=blue)</br>
 
 ## Contáctame [![Emails](https://img.shields.io/badge/-emails-003399?style=flat-square&logo=protonmail)]():
-[![Hotmail](https://img.shields.io/badge/Hotmail-036BB9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=red)](https://outlook.office.com/mail/deeplink/compose?popoutv2=1&to=angelsuriaga@hotmail.com)</br>
-[![Gmail](https://img.shields.io/badge/Gmail-036BB9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](https://mail.google.com/mail/u/0/?fs=1&to=angelsuriaga93@gmail.com&tf=cm)</br>
+[![Hotmail](https://img.shields.io/badge/Hotmail-036BB9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=red)](mailto:angelsuriaga@hotmail.com)</br>
+[![Gmail](https://img.shields.io/badge/Gmail-036BB9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:angelsuriaga93@gmail.com)</br>
