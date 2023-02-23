@@ -4,8 +4,6 @@ Soy desarrollador Android desde hace 1 año con mucho ánimo a mejorar día a d�
 
 Me gusta enterarme de las últimas novedades del mundo Android, así como también, aprender las nuevas tecnologías.
 
-Actualmente me encuentro terminando mis estudios para la obtención del título en pocos meses de Ingeniería Informática en la Universidad Técnica Particular de Loja - Ecuador.
-
 ## Habilidades:
 ![Android](https://img.shields.io/badge/Android-2EDF85?style=for-the-badge&logo=android&logoColor=white&labelColor=blue)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-515ED8?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=blue)</br>
