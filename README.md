@@ -1,6 +1,6 @@
-## Hola, soy Angel Eduardo Suriaga 👋
+## Hola, soy Angel Eduardo Suriaga
 
-Soy desarrollador Android desde hace 1 año con mucho ánimo a mejorar día a día y alcanzar mis objetivos en esta apasionante industria del software, como también dispuesto a aprender de otros profesionales, trabajar en equipo para alcanzar las metras propuestas y además buscar nuevos desafíos.
+Soy Android Developer con mucho ánimo a mejorar día a día y alcanzar mis objetivos en esta apasionante industria del software especialmente Android
 
 Me gusta enterarme de las últimas novedades del mundo Android, así como también, aprender las nuevas tecnologías.
 
@@ -14,6 +14,3 @@ Me gusta enterarme de las últimas novedades del mundo Android, así como tambi�
 ![MYSQL](https://img.shields.io/badge/Mysql-00618B?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)</br>
 ![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-1D9C5A?style=for-the-badge&logo=android&logoColor=white&labelColor=blue)</br>
 
-## Contáctame [![Emails](https://img.shields.io/badge/-emails-003399?style=flat-square&logo=protonmail)]():
-[![Hotmail](https://img.shields.io/badge/Hotmail-036BB9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=red)](mailto:angelsuriaga@hotmail.com)</br>
-[![Gmail](https://img.shields.io/badge/Gmail-036BB9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:angelsuriaga93@gmail.com)</br>
