@@ -11,7 +11,6 @@
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-083042?style=for-the-badge&logo=jetpack%20compose&logoColor=white&labelColor=blue)</br>](https://developer.android.com/develop/ui/compose)
 [![Firebase](https://img.shields.io/badge/Firebase-F2C12B?style=for-the-badge&logo=firebase&logoColor=white&labelColor=blue)</br>](https://firebase.google.com/)
 [![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-1D9C5A?style=for-the-badge&logo=android&logoColor=white&labelColor=blue)</br>](https://developer.android.com/jetpack)
-[![Flutter](https://img.shields.io/badge/Android%20Jetpack-1D9C5A?style=for-the-badge&logo=android&logoColor=white&labelColor=blue)</br>](https://developer.android.com/jetpack)
 
 ## Contact with me:
 
